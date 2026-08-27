@@ -35,6 +35,13 @@ The project includes exploratory data analysis, a benchmark comparison across mu
 * **Machine Learning:** Scikit-Learn, XGBoost
 
 ---
+## Team
+
+* Mohamed Shaaban
+* Fatma Elzahraa Alsayeh
+* Abdelrahman Tolba
+
+---
 
 ## Project Structure
 
@@ -47,8 +54,3 @@ The project includes exploratory data analysis, a benchmark comparison across mu
 ├── requirements.txt                       # Project dependencies
 └── README.md                              # Documentation
 
-
-## Team
-*Mohamed Shaaban
-*Fatma elzahraa alsayeh
-*Abdelrahman tolba
