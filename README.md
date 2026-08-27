@@ -46,3 +46,9 @@ The project includes exploratory data analysis, a benchmark comparison across mu
 ├── app.py                                 # Main Streamlit application
 ├── requirements.txt                       # Project dependencies
 └── README.md                              # Documentation
+
+
+## Team
+*Mohamed Shaaban
+*Fatma elzahraa alsayeh
+*Abdelrahman tolba
