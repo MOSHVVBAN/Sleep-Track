@@ -1,7 +1,7 @@
 # 🌙 Sleep Track — For tracking sleep health (NTI Project)
 
 
-🚀 **Live Demo:** [sleep-track.streamlit.app](https://sleep-track.streamlit.app/)
+ **Demo:** [sleep-track.streamlit.app](https://sleep-track.streamlit.app/)
 
 ---
 
